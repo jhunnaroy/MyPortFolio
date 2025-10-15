@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Built an e-commerce platform with React.js, Node.js, Express.js, and MongoDB, featuring product catalog, cart, authentication, order management, advanced search, recommendations, and an admin dashboard for efficient inventory management.",
+    "demo": "/",
+    "source": "https://github.com/jhunnaroy/Ecommerce.git"
+  },
+  {
+  "key": 2,
+  "title": "Blogger",
+  "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+  "description": "Developed a full-featured blogging platform using the MERN stack where users can create, edit, and publish blogs with images and tags. Implemented authentication, user profiles, and comment functionality. The platform supports responsive design, dynamic routing, and MongoDB integration for efficient content management.",
+  "demo": "",
+  "source": "https://github.com/jhunnaroy/Blogar_Project.git"
+}
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Full-Stack Development Intern",
+    "organisation": "Cognifyz",
+    "startDate": "May, 2025",
+    "endDate": "Aug, 2025",
+    "location": "Nagpur Maharastra, India",
+    "experiences": [
+      "Architected and optimized backend services with Node.js, Express.js, and MongoDB, handling 5,000+ concurrent transactions for order processing, authentication, and payment workflows.",
+      "Designed RESTful APIs that reduced average response time by 40% and ensured scalability.",
+      "Developed responsive frontend interfaces using React.js and Tailwind CSS, enhancing user experience across catalog, cart, and checkout modules and increasing user engagement by 25%."
+    ],
+    "imageSrc": "company/profcess.png"
+  },
+  {
+    "id": 2,
+    "role": "Frontend Development Intern",
+    "organisation": "Arootle Pvt. Ltd.",
+    "startDate": "May, 2024",
+    "endDate": "July, 2024",
+    "location": "Jaipur, India",
+    "experiences": [
+      "Built responsive e-commerce web apps with React.js and Tailwind CSS, improving user engagement by 40% and reducing bounce rate by 20%.",
+      "Integrated RESTful APIs with Axios, optimized state management, and implemented secure payments, reducing transaction failures by 30% and boosting load performance by 35%."
+    ],
+    "imageSrc": "company/zeetron.png"
+  }
+]
