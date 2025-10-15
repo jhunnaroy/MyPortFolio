@@ -1,5 +1,5 @@
 🌐 My Portfolio Website
-👨‍💻 Developed by Rahul Kumar
+👨‍💻 Developed by Jhunna Kumar
 
 A personal portfolio website built to showcase my skills, projects, and achievements as a Full Stack Web Developer. The website highlights my journey, technical expertise, and major projects in web development using React.js, Node.js, and MongoDB.
 
@@ -90,13 +90,13 @@ DevOps & Tools: Docker, Jenkins, AWS, GitHub Actions, Postman
 
 📫 Contact Me
 
-📧 Email: rahul.22jics074@jietjodhpur.ac.in
+📧 Email: jhunnakumarbth2003@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/rahulkumar124
+🔗 LinkedIn: linkedin.com/in/jhunnakumar2003
 
-💻 GitHub: github.com/Rahulkrcse124
+💻 GitHub: github.com/jhunnaroy
 
-🧩 LeetCode: leetcode.com/u/Rahulcse124
+🧩 LeetCode: leetcode.com/u/jhunnakumarbth2003
 
 🧾 License
 
