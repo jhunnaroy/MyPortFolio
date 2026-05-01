@@ -8,11 +8,35 @@
     "source": "https://github.com/jhunnaroy/Ecommerce.git"
   },
   {
-  "key": 2,
-  "title": "Blogger",
-  "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-  "description": "Developed a full-featured blogging platform using the MERN stack where users can create, edit, and publish blogs with images and tags. Implemented authentication, user profiles, and comment functionality. The platform supports responsive design, dynamic routing, and MongoDB integration for efficient content management.",
-  "demo": "",
-  "source": "https://github.com/jhunnaroy/Blogar_Project.git"
-}
+    "key": 2,
+    "title": "Blogger",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Developed a full-featured blogging platform using the MERN stack where users can create, edit, and publish blogs with images and tags. Implemented authentication, user profiles, and comment functionality. The platform supports responsive design, dynamic routing, and MongoDB integration for efficient content management.",
+    "demo": "",
+    "source": "https://github.com/jhunnaroy/Blogar_Project.git"
+  },
+  {
+    "key": 3,
+    "title": "Chat Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/11/29/09/32/chat-1868707_640.jpg",
+    "description": "Built a real-time chat application using the MERN stack and Socket.io, enabling instant messaging, user authentication, online/offline status, and real-time notifications. Implemented secure communication and responsive UI for seamless user experience.",
+    "demo": "",
+    "source": "https://github.com/jhunnaroy"
+  },
+  {
+    "key": 4,
+    "title": "Cloud Cost Optimization",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/11/18/14/05/cloud-1838315_640.jpg",
+    "description": "Developed a cloud cost optimization system using AWS SDK to monitor, analyze, and reduce cloud expenses. Implemented resource usage tracking, idle resource detection, automated alerts, and cost-saving recommendations to improve infrastructure efficiency.",
+    "demo": "",
+    "source": "https://github.com/jhunnaroy"
+  },
+  {
+    "key": 5,
+    "title": "Company Website - SRJ Global Technology",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_640.jpg",
+    "description": "Designed and developed a responsive company website using the MERN stack for SRJ Global Technology. Features include homepage, services, contact form, authentication, chatbot integration, and online payment system using Razorpay/Stripe.",
+    "demo": "",
+    "source": "https://github.com/jhunnaroy"
+  }
 ]
