@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
-import pdf from '../pdf/Resume.pdf';
+import pdf from '../pdf/jhunnaFull_stack.pdf';
 import hero from './data/hero.json';
-import rahul from './data/Rahul.jpg';
+import rahul from './data/jky.png';
 import Typed from 'typed.js';
 
 const Home = () => {
